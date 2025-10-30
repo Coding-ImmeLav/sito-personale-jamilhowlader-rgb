@@ -1,0 +1,28 @@
+.benvenuto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* vh è percentuale dello schermo  */
+    height: 90vh;
+    background-color: aquamarine;
+}
+
+.bio {
+    height: 30vh;
+    display: flex;
+    align-items: center;
+}
+.foglio {
+    border: 0.5 solid rgb(red, green, blue); 
+    padding: 5% ;
+
+}
+.cv{
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+.btn{
+    width: auto;
+
+}
