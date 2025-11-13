@@ -13,16 +13,26 @@
     display: flex;
     align-items: center;
 }
-.foglio {
-    border: 0.5 solid rgb(red, green, blue); 
-    padding: 5% ;
 
+.foglio {
+    border: 0.5px solid rgb(60, 60, 60);
+    padding: 5%;
 }
-.cv{
+
+.cv {
     margin-top: 5vh;
     margin-bottom: 5vh;
 }
-.btn{
-    width: auto;
 
+.btn {
+    width: auto;
+}
+
+.logo {
+    width: 50%;
+}
+
+footer {
+    background-color: cadetblue;
+    padding: 5vh;
 }
