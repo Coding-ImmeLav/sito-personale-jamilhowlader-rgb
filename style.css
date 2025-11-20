@@ -36,3 +36,20 @@ footer {
     background-color: cadetblue;
     padding: 5vh;
 }
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+.card {
+  height: 100%;
+}
+
+.card-header, .card-footer {
+    background-color: transparent;
+    border: none;
+}
+
+
+
